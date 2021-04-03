@@ -1,0 +1,19 @@
+{
+    "momo":[
+        {"name":"Buff", "price":180 },
+        {"name":"chicken", "price":150 },
+        {"name":"veg",  "price":120}
+    ],
+
+    "chowmin":[
+        {"name":"Buff", "price":180 },
+        {"name":"chicken", "price":150 },
+        {"name":"veg",  "price":120}
+    ],
+    
+    "sandwich":[
+        {"name":"Buff", "price":180 },
+        {"name":"chicken", "price":150 },
+        {"name":"veg",  "price":120}
+    ]
+}
